@@ -1,0 +1,179 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: #f4f6fb;
+  color: #101b42;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* RR scouting theme */
+/* Your existing RR CSS continues below */
+.rr-workspace {
+  background:
+    radial-gradient(ellipse at 95% 0%, #ea1a850a, transparent 40%),
+    radial-gradient(ellipse at 20% 50%, #1a378908, transparent 45%),
+    #f4f6fb;
+}
+
+.rr-sidebar {
+  background:
+    radial-gradient(circle at 20% 0%, #365acd80, transparent 45%),
+    linear-gradient(170deg, #1a3789, #101f53 85%);
+  border-right: 1px solid #ffffff14;
+}
+
+.rr-hero {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  min-height: 290px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  overflow: hidden;
+  padding: 36px;
+  border: 1px solid #ffffff20;
+  border-radius: 24px;
+  background-color: #081536;
+  background-image:
+    linear-gradient(90deg, #08153666, #08153622),
+    url("/images/rr-stadium.webp");
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 16px 40px #101f5318;
+  animation: rr-enter 650ms ease-out both;
+}
+
+.rr-hero::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #ea1a85, #ff8ac6, #1a3789);
+  content: "";
+}
+
+.rr-hero-copy {
+  max-width: 570px;
+}
+
+.rr-hero-kicker {
+  margin-bottom: 16px;
+  color: #ff8ac6;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+}
+
+.rr-hero-title {
+  color: white;
+  font-size: clamp(2rem, 3.6vw, 3.5rem);
+  font-weight: 900;
+  line-height: 1.08;
+  letter-spacing: -0.045em;
+}
+
+.rr-hero-description {
+  max-width: 390px;
+  margin-top: 16px;
+  color: #d0dbef;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.rr-stat-card {
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 16px #101f5304;
+  animation: rr-enter 550ms ease-out both;
+  transition:
+    transform 200ms ease,
+    box-shadow 200ms ease,
+    border-color 200ms ease;
+}
+
+.rr-stat-card::before {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 3px;
+  background: linear-gradient(#ea1a85, #1a3789);
+  content: "";
+}
+
+.rr-stat-card:nth-child(2) {
+  animation-delay: 70ms;
+}
+
+.rr-stat-card:nth-child(3) {
+  animation-delay: 140ms;
+}
+
+.rr-stat-card:nth-child(4) {
+  animation-delay: 210ms;
+}
+
+.rr-stat-card:hover {
+  transform: translateY(-3px);
+  border-color: #ea1a8540;
+  box-shadow: 0 12px 28px #1a37890d;
+}
+
+.rr-panel {
+  box-shadow: 0 4px 20px #101f5305;
+  animation: rr-enter 650ms ease-out both;
+}
+
+.rr-upload {
+  box-shadow: 0 4px 18px #ea1a8533;
+  transition:
+    background-color 180ms ease,
+    box-shadow 180ms ease;
+}
+
+.rr-upload:focus-within {
+  outline: 3px solid #ffb6db;
+  outline-offset: 4px;
+}
+
+@keyframes rr-enter {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 640px) {
+  .rr-hero {
+    min-height: 340px;
+    padding: 26px 22px;
+    background-image:
+      linear-gradient(90deg, #081536ee, #08153680),
+      url("/images/rr-stadium.webp");
+    background-position: 65% center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rr-hero,
+  .rr-stat-card,
+  .rr-panel {
+    animation: none;
+    transition: none;
+  }
+
+  .rr-stat-card:hover {
+    transform: none;
+  }
+}
