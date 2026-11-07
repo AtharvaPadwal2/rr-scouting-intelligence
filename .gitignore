@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Next.js
+node_modules/
+.next/
+out/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Datasets and archives
+data/
+*.zip
+
+# Logs
+*.log
