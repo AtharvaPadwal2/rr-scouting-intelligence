@@ -57,6 +57,9 @@ matches: number | null;
   battingAverage: number | null;
 bowlingAverage: number | null;
 bowlingStrikeRate: number | null;
+aggregateFormScore?: number | null;
+aggregateSampleWeight?: number;
+aggregateModelType?: string;
 };
 
 type RankedPlayer = Player & { value: number };
