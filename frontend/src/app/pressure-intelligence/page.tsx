@@ -252,7 +252,7 @@ function ScoutingSignature({
       </svg>
 
       <div style={{ display: "flex", flexWrap: "wrap", gap: 18, fontSize: 14, color: COLORS.text }}>
-        <span><Dot color={COLORS.pink} />Final HITL</span>
+        <span><Dot color={COLORS.pink} />Hybrid PRI v2</span>
         <span><Dot color={COLORS.gold} />Human scout</span>
         {hasModel && <span><Dot color={COLORS.blue} />Statistical PRI model</span>}
         {hasAggregateProxy && <span><Dot color={COLORS.blue} />Aggregate form proxy (same value on both axes)</span>}
@@ -301,7 +301,7 @@ export default function PressureIntelligence() {
     const controller = new AbortController();
     async function load() {
       try {
-        const response = await fetch("/data/scouting_scores.json", {
+        const response = await fetch("/royal-edge-pri-v2.json", {
           signal: controller.signal,
           cache: "no-store",
         });
@@ -333,8 +333,8 @@ export default function PressureIntelligence() {
   // Only select from the filtered list. It can be empty during loading or searching.
   const active = filtered.find((p) => p.name === selected) ?? filtered[0] ?? null;
   const hybridCount = players.filter((p) => Number(p.modelWeight ?? 0) > 0 && !p.aggregateProxyAppliedToBothAxes).length;
-  const aggregateCount = players.filter((p) => p.aggregateProxyAppliedToBothAxes === true).length;
-  const analystCount = players.length - hybridCount - aggregateCount;
+
+
 
   const methodLabel = (p: Player) =>
     p.aggregateProxyAppliedToBothAxes
@@ -389,8 +389,8 @@ export default function PressureIntelligence() {
               {[
                 ["PLAYERS", String(players.length)],
                 ["STATISTICAL PRI", String(hybridCount)],
-                ["AGGREGATE FORM", String(aggregateCount)],
-                ["ANALYST ONLY", String(analystCount)],
+                
+                
                 ["INDEX SCALE", "10 POINT"],
               ].map(([label, value]) => (
                 <div key={label} style={panel}>
@@ -565,12 +565,12 @@ export default function PressureIntelligence() {
                       {active.scoutingRationale || "No scouting rationale supplied."}
                     </p>
                     <p style={{ fontSize: 14, color: COLORS.muted }}>
-                      RR matches: {active.rrMatches ?? 0} · SMAT matches: {active.smatMatches ?? 0} · Scored model matches:{" "}
+                      Official pressure matches:{" "}
                       {active.modelMatches ?? 0}
                     </p>
                     <p style={{ color: COLORS.gold, fontSize: 14, marginBottom: 0 }}>
                       Scouting source review:{" "}
-                      {active.sourceVerified ? "Verified" : "Verified through online sources ( Cricbuzz, Crex, Cricinfo)"}
+                      {active.sourceVerified ? "Verified" : "Analyst evidence; independent verification pending"}
                     </p>
                     {active.sourceReference?.startsWith("https://") && (
                       <p>
