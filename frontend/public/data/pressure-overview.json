@@ -1,0 +1,8763 @@
+{
+  "meta": {
+    "title": "RR Pressure Intelligence",
+    "methodology": "Structural-pressure exploratory analysis; not verified game pressure or current contract availability.",
+    "batters": 136,
+    "bowlers": 114,
+    "ipl2026MappedPlayers": 275
+  },
+  "batting": [
+    {
+      "id": "6396",
+      "name": "Tim David",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 1,
+      "adjustedScore": 36.2,
+      "balls": 500,
+      "matches": 58,
+      "positiveMatchPct": 75.0,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 75.3,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 100.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 75.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "20702",
+      "name": "Tristan Stubbs",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 2,
+      "adjustedScore": 34.1,
+      "balls": 281,
+      "matches": 31,
+      "positiveMatchPct": 76.19,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 79.5,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 99.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 76.2
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 70.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "3916",
+      "name": "Jitesh Sharma",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 3,
+      "adjustedScore": 34.09,
+      "balls": 292,
+      "matches": 35,
+      "positiveMatchPct": 85.0,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 76.5,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 98.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 85.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 70.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "2639",
+      "name": "Marcus Stoinis",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 4,
+      "adjustedScore": 32.34,
+      "balls": 250,
+      "matches": 32,
+      "positiveMatchPct": 78.95,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 73.5,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 97.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 78.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "1699",
+      "name": "Suryakumar Yadav",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 5,
+      "adjustedScore": 30.63,
+      "balls": 185,
+      "matches": 20,
+      "positiveMatchPct": 84.62,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 52.6,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 97.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 84.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 60.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 66.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "8182",
+      "name": "Donovan Ferreira",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 6,
+      "adjustedScore": 30.44,
+      "balls": 105,
+      "matches": 14,
+      "positiveMatchPct": 87.5,
+      "top10StabilityPct": 66.67,
+      "iplEvidencePct": 75.2,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 96.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 87.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 46.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 66.7
+        }
+      ]
+    },
+    {
+      "id": "7897",
+      "name": "Namboori Tilak Varma",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 7,
+      "adjustedScore": 29.72,
+      "balls": 388,
+      "matches": 45,
+      "positiveMatchPct": 77.78,
+      "top10StabilityPct": 77.78,
+      "iplEvidencePct": 46.5,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 95.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 77.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 76.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 77.8
+        }
+      ]
+    },
+    {
+      "id": "4708",
+      "name": "Rinku Singh",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 8,
+      "adjustedScore": 29.47,
+      "balls": 487,
+      "matches": 54,
+      "positiveMatchPct": 63.41,
+      "top10StabilityPct": 66.67,
+      "iplEvidencePct": 66.9,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 94.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 63.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 66.7
+        }
+      ]
+    },
+    {
+      "id": "3647",
+      "name": "Shreyas Iyer",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 9,
+      "adjustedScore": 28.49,
+      "balls": 182,
+      "matches": 20,
+      "positiveMatchPct": 73.33,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 62.4,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 94.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 73.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 60.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 66.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "37052",
+      "name": "Naman Dhir",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 10,
+      "adjustedScore": 28.1,
+      "balls": 170,
+      "matches": 21,
+      "positiveMatchPct": 84.62,
+      "top10StabilityPct": 66.67,
+      "iplEvidencePct": 84.2,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 93.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 84.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 58.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 70.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 66.7
+        }
+      ]
+    },
+    {
+      "id": "8101",
+      "name": "Ashutosh Sharma",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 11,
+      "adjustedScore": 28.07,
+      "balls": 217,
+      "matches": 21,
+      "positiveMatchPct": 68.75,
+      "top10StabilityPct": 66.67,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 92.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 68.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 64.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 70.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 66.7
+        }
+      ]
+    },
+    {
+      "id": "5039",
+      "name": "Rajat Patidar",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 12,
+      "adjustedScore": 26.41,
+      "balls": 66,
+      "matches": 7,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 22.22,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 91.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 22.2
+        }
+      ]
+    },
+    {
+      "id": "4986",
+      "name": "Rovman Powell",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 13,
+      "adjustedScore": 26.36,
+      "balls": 414,
+      "matches": 46,
+      "positiveMatchPct": 60.61,
+      "top10StabilityPct": 33.33,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 91.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 77.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 33.3
+        }
+      ]
+    },
+    {
+      "id": "4703",
+      "name": "Rishabh Pant",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 14,
+      "adjustedScore": 25.34,
+      "balls": 122,
+      "matches": 12,
+      "positiveMatchPct": 77.78,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 90.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 77.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 50.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4853",
+      "name": "Glenn Phillips",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 15,
+      "adjustedScore": 24.01,
+      "balls": 114,
+      "matches": 15,
+      "positiveMatchPct": 54.55,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 89.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2756",
+      "name": "Shashank Singh",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 16,
+      "adjustedScore": 22.52,
+      "balls": 241,
+      "matches": 26,
+      "positiveMatchPct": 75.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 89.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 75.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 66.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4260",
+      "name": "Heinrich Klaasen",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 17,
+      "adjustedScore": 22.32,
+      "balls": 230,
+      "matches": 26,
+      "positiveMatchPct": 70.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 88.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 70.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 65.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3125",
+      "name": "Nicholas Pooran",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 18,
+      "adjustedScore": 20.86,
+      "balls": 245,
+      "matches": 25,
+      "positiveMatchPct": 77.78,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 87.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 77.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 83.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3926",
+      "name": "Rahul Tewatia",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 19,
+      "adjustedScore": 20.59,
+      "balls": 323,
+      "matches": 43,
+      "positiveMatchPct": 61.9,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 86.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 61.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 72.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4117",
+      "name": "Ishan Kishan",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 20,
+      "adjustedScore": 20.44,
+      "balls": 65,
+      "matches": 9,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 86.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1077",
+      "name": "David Miller",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 21,
+      "adjustedScore": 18.48,
+      "balls": 269,
+      "matches": 32,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 85.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 69.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6726",
+      "name": "Romario Shepherd",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 22,
+      "adjustedScore": 18.32,
+      "balls": 426,
+      "matches": 53,
+      "positiveMatchPct": 65.52,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 84.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 65.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 78.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "20006",
+      "name": "Ramandeep Singh",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 23,
+      "adjustedScore": 18.11,
+      "balls": 155,
+      "matches": 24,
+      "positiveMatchPct": 83.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 83.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 83.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 56.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4391",
+      "name": "Liam Livingstone",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 24,
+      "adjustedScore": 18.04,
+      "balls": 180,
+      "matches": 22,
+      "positiveMatchPct": 78.57,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 83.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 78.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 60.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 73.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6676",
+      "name": "Azmatullah Omarzai",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 25,
+      "adjustedScore": 17.87,
+      "balls": 210,
+      "matches": 25,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 82.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 63.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 83.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3605",
+      "name": "Aiden Markram",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 26,
+      "adjustedScore": 17.61,
+      "balls": 102,
+      "matches": 13,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 81.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 45.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "47370",
+      "name": "Aniket Verma",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 27,
+      "adjustedScore": 16.63,
+      "balls": 67,
+      "matches": 11,
+      "positiveMatchPct": 60.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 80.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Mahendra Singh Dhoni",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 28,
+      "adjustedScore": 15.6,
+      "balls": 330,
+      "matches": 43,
+      "positiveMatchPct": 53.85,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 80.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 53.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 73.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4722",
+      "name": "Rashid Khan",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 29,
+      "adjustedScore": 15.31,
+      "balls": 376,
+      "matches": 62,
+      "positiveMatchPct": 62.5,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 79.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 62.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 75.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7260",
+      "name": "Dhruv Jurel",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 30,
+      "adjustedScore": 14.8,
+      "balls": 200,
+      "matches": 24,
+      "positiveMatchPct": 71.43,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 78.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 71.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 62.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6725",
+      "name": "Sherfane Rutherford",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 31,
+      "adjustedScore": 14.56,
+      "balls": 191,
+      "matches": 20,
+      "positiveMatchPct": 57.14,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 77.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 57.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 61.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 66.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "23311",
+      "name": "Jacob Bethell",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 32,
+      "adjustedScore": 12.22,
+      "balls": 50,
+      "matches": 6,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 77.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 29.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6460",
+      "name": "Ayush Badoni",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 33,
+      "adjustedScore": 12.02,
+      "balls": 295,
+      "matches": 30,
+      "positiveMatchPct": 63.64,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 76.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 63.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 71.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "813",
+      "name": "Jos Buttler",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 34,
+      "adjustedScore": 11.96,
+      "balls": 77,
+      "matches": 10,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 75.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2633",
+      "name": "Jason Holder",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 35,
+      "adjustedScore": 11.6,
+      "balls": 210,
+      "matches": 36,
+      "positiveMatchPct": 64.29,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 75.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 64.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 63.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8238",
+      "name": "Sameer Rizvi",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 36,
+      "adjustedScore": 11.39,
+      "balls": 58,
+      "matches": 6,
+      "positiveMatchPct": 83.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 74.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 83.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 32.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8221",
+      "name": "Nitish Reddy",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 37,
+      "adjustedScore": 10.91,
+      "balls": 108,
+      "matches": 17,
+      "positiveMatchPct": 90.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 73.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 90.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 47.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 56.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4229",
+      "name": "George Linde",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 38,
+      "adjustedScore": 9.97,
+      "balls": 72,
+      "matches": 8,
+      "positiveMatchPct": 83.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 72.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 83.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 37.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2417",
+      "name": "Akeal Hosein",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 39,
+      "adjustedScore": 9.91,
+      "balls": 146,
+      "matches": 26,
+      "positiveMatchPct": 83.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 72.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 83.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 54.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6423",
+      "name": "Riyan Parag",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 40,
+      "adjustedScore": 9.79,
+      "balls": 178,
+      "matches": 26,
+      "positiveMatchPct": 35.71,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 71.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 35.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 59.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3297",
+      "name": "Shimron Hetmyer",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 41,
+      "adjustedScore": 9.57,
+      "balls": 373,
+      "matches": 44,
+      "positiveMatchPct": 53.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 70.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 53.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 75.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Virat Kohli",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 42,
+      "adjustedScore": 9.09,
+      "balls": 65,
+      "matches": 7,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 69.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2436",
+      "name": "Dasun Shanaka",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 43,
+      "adjustedScore": 8.41,
+      "balls": 318,
+      "matches": 40,
+      "positiveMatchPct": 56.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 69.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 56.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 72.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "25679",
+      "name": "Salil Arora",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 44,
+      "adjustedScore": 8.13,
+      "balls": 59,
+      "matches": 9,
+      "positiveMatchPct": 60.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 68.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 33.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7544",
+      "name": "Venkatesh Iyer",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 45,
+      "adjustedScore": 8.12,
+      "balls": 137,
+      "matches": 16,
+      "positiveMatchPct": 55.56,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 67.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 53.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6272",
+      "name": "William Jacks",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 46,
+      "adjustedScore": 8.03,
+      "balls": 41,
+      "matches": 10,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 66.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 25.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "25139",
+      "name": "Shubham Dubey",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 47,
+      "adjustedScore": 7.81,
+      "balls": 87,
+      "matches": 12,
+      "positiveMatchPct": 55.56,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 66.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 42.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "25213",
+      "name": "Dewald Brevis",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 48,
+      "adjustedScore": 7.76,
+      "balls": 46,
+      "matches": 5,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 65.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 27.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4821",
+      "name": "Mahipal Lomror",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 49,
+      "adjustedScore": 6.97,
+      "balls": 80,
+      "matches": 15,
+      "positiveMatchPct": 85.71,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 64.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 85.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 40.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1758",
+      "name": "Patrick Cummins",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 50,
+      "adjustedScore": 6.91,
+      "balls": 190,
+      "matches": 32,
+      "positiveMatchPct": 53.85,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 64.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 53.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 61.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7446",
+      "name": "Abdul Samad",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 51,
+      "adjustedScore": 6.49,
+      "balls": 223,
+      "matches": 29,
+      "positiveMatchPct": 63.16,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 63.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 63.2
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 65.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 96.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8654",
+      "name": "Cooper Connolly",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 52,
+      "adjustedScore": 6.27,
+      "balls": 36,
+      "matches": 3,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 62.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 10.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6467",
+      "name": "Anuj Rawat",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 53,
+      "adjustedScore": 5.84,
+      "balls": 74,
+      "matches": 8,
+      "positiveMatchPct": 80.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 61.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 80.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 38.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3782",
+      "name": "M Shahrukh Khan",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 54,
+      "adjustedScore": 5.72,
+      "balls": 155,
+      "matches": 26,
+      "positiveMatchPct": 69.23,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 61.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 69.2
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 56.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "46066",
+      "name": "Vipraj Nigam",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 55,
+      "adjustedScore": 4.84,
+      "balls": 48,
+      "matches": 8,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 60.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 28.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6288",
+      "name": "Shubman Gill",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 56,
+      "adjustedScore": 4.78,
+      "balls": 31,
+      "matches": 7,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 59.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4409",
+      "name": "Sam Curran",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 57,
+      "adjustedScore": 4.51,
+      "balls": 277,
+      "matches": 34,
+      "positiveMatchPct": 60.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 58.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 69.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6273",
+      "name": "Tom Banton",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 58,
+      "adjustedScore": 4.2,
+      "balls": 32,
+      "matches": 5,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 58.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 21.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6059",
+      "name": "Ruturaj Gaikwad",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 59,
+      "adjustedScore": 4.15,
+      "balls": 39,
+      "matches": 6,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 57.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 24.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4755",
+      "name": "Shivam Dube",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 60,
+      "adjustedScore": 4.15,
+      "balls": 339,
+      "matches": 40,
+      "positiveMatchPct": 58.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 56.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 58.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 73.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3330",
+      "name": "Hardik Pandya",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 61,
+      "adjustedScore": 4.02,
+      "balls": 429,
+      "matches": 49,
+      "positiveMatchPct": 55.88,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 55.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 78.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7059",
+      "name": "Nehal Wadhera",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 62,
+      "adjustedScore": 3.54,
+      "balls": 78,
+      "matches": 14,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 55.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2258",
+      "name": "Sanju Samson",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 63,
+      "adjustedScore": 2.97,
+      "balls": 67,
+      "matches": 8,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 54.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4904",
+      "name": "Kamindu Mendis",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 64,
+      "adjustedScore": 2.94,
+      "balls": 103,
+      "matches": 15,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 53.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 46.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3653",
+      "name": "Avesh Khan",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 65,
+      "adjustedScore": 2.7,
+      "balls": 57,
+      "matches": 18,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 52.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 32.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 60.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "29066",
+      "name": "Zakary Foulkes",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 66,
+      "adjustedScore": 2.38,
+      "balls": 65,
+      "matches": 11,
+      "positiveMatchPct": 80.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 52.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 80.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4854",
+      "name": "Rachin Ravindra",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 67,
+      "adjustedScore": 2.1,
+      "balls": 67,
+      "matches": 10,
+      "positiveMatchPct": 57.14,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 51.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 57.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "name": "Manish Pandey",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 68,
+      "adjustedScore": 1.99,
+      "balls": 35,
+      "matches": 5,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 50.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 22.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7808",
+      "name": "Marco Jansen",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 69,
+      "adjustedScore": 1.97,
+      "balls": 167,
+      "matches": 26,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 50.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 58.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1813",
+      "name": "Deepak Chahar",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 70,
+      "adjustedScore": 1.72,
+      "balls": 65,
+      "matches": 11,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 49.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6526",
+      "name": "Himmat Singh",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 71,
+      "adjustedScore": 1.55,
+      "balls": 37,
+      "matches": 4,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 48.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 13.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4246",
+      "name": "Nitish Rana",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 72,
+      "adjustedScore": 1.38,
+      "balls": 33,
+      "matches": 5,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 47.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 21.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "818",
+      "name": "Mitchell Marsh",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 73,
+      "adjustedScore": 1.18,
+      "balls": 43,
+      "matches": 5,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 47.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 26.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6314",
+      "name": "Devdutt Padikkal",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 74,
+      "adjustedScore": 1.14,
+      "balls": 32,
+      "matches": 3,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 46.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 21.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 10.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5939",
+      "name": "Cameron Green",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 75,
+      "adjustedScore": 0.92,
+      "balls": 124,
+      "matches": 16,
+      "positiveMatchPct": 60.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 45.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 50.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7472",
+      "name": "Shahbaz Ahmed",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 76,
+      "adjustedScore": 0.22,
+      "balls": 181,
+      "matches": 24,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 44.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 60.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "20894",
+      "name": "Aman Khan",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 77,
+      "adjustedScore": -0.04,
+      "balls": 45,
+      "matches": 9,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 44.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 27.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4219",
+      "name": "Krunal Pandya",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 78,
+      "adjustedScore": -0.1,
+      "balls": 154,
+      "matches": 26,
+      "positiveMatchPct": 58.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 43.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 58.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 56.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "26906",
+      "name": "Angkrish Raghuvanshi",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 79,
+      "adjustedScore": -0.44,
+      "balls": 32,
+      "matches": 3,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 42.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 21.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 10.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6931",
+      "name": "Pathum Nissanka",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 80,
+      "adjustedScore": -0.61,
+      "balls": 37,
+      "matches": 5,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 41.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2382",
+      "name": "Jamie Overton",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 81,
+      "adjustedScore": -0.69,
+      "balls": 111,
+      "matches": 15,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 41.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "19714",
+      "name": "Abishek Porel",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 82,
+      "adjustedScore": -0.81,
+      "balls": 49,
+      "matches": 6,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 40.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 29.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "20005",
+      "name": "Arshad Khan",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 83,
+      "adjustedScore": -0.98,
+      "balls": 75,
+      "matches": 11,
+      "positiveMatchPct": 75.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 39.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 75.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 38.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6284",
+      "name": "Anukul Roy",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 84,
+      "adjustedScore": -1.12,
+      "balls": 40,
+      "matches": 9,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 39.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 25.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "45749",
+      "name": "Mukul Choudhary",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 85,
+      "adjustedScore": -1.15,
+      "balls": 72,
+      "matches": 8,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 38.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 37.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4736",
+      "name": "Josh Inglis",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 86,
+      "adjustedScore": -2.07,
+      "balls": 36,
+      "matches": 6,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 37.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "56817",
+      "name": "Shivang Kumar",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 87,
+      "adjustedScore": -2.93,
+      "balls": 45,
+      "matches": 6,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 36.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 27.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4823",
+      "name": "Washington Sundar",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 88,
+      "adjustedScore": -3.01,
+      "balls": 223,
+      "matches": 26,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 36.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 65.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "24475",
+      "name": "Rehan Ahmed",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 89,
+      "adjustedScore": -3.76,
+      "balls": 36,
+      "matches": 7,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 35.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7325",
+      "name": "Harpreet Brar",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 90,
+      "adjustedScore": -3.78,
+      "balls": 111,
+      "matches": 18,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 34.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 60.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7625",
+      "name": "Suryansh Shedge",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 91,
+      "adjustedScore": -4.01,
+      "balls": 33,
+      "matches": 7,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 33.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 21.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "45966",
+      "name": "Prashant Veer",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 92,
+      "adjustedScore": -4.09,
+      "balls": 39,
+      "matches": 5,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 33.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 24.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3298",
+      "name": "Jofra Archer",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 93,
+      "adjustedScore": -4.2,
+      "balls": 121,
+      "matches": 27,
+      "positiveMatchPct": 37.5,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 32.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 37.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 50.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 90.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "781",
+      "name": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 94,
+      "adjustedScore": -4.49,
+      "balls": 51,
+      "matches": 15,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 31.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 29.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2876",
+      "name": "Axar Patel",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 95,
+      "adjustedScore": -4.63,
+      "balls": 493,
+      "matches": 62,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 30.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "58246",
+      "name": "Prince Yadav",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 96,
+      "adjustedScore": -4.78,
+      "balls": 39,
+      "matches": 9,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 30.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 24.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4101",
+      "name": "Mitchell Santner",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 97,
+      "adjustedScore": -5.04,
+      "balls": 244,
+      "matches": 40,
+      "positiveMatchPct": 58.82,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 29.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 58.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6628",
+      "name": "Gerald Coetzee",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 98,
+      "adjustedScore": -5.44,
+      "balls": 79,
+      "matches": 15,
+      "positiveMatchPct": 62.5,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 28.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 62.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "name": "Ravindra Jadeja",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 99,
+      "adjustedScore": -5.5,
+      "balls": 442,
+      "matches": 47,
+      "positiveMatchPct": 48.57,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 27.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 48.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 78.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1071",
+      "name": "Jaydev Unadkat",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 100,
+      "adjustedScore": -5.53,
+      "balls": 69,
+      "matches": 11,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 27.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 36.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "953",
+      "name": "Lokesh Rahul",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 101,
+      "adjustedScore": -5.6,
+      "balls": 72,
+      "matches": 13,
+      "positiveMatchPct": 80.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 26.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 80.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 37.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3629",
+      "name": "Corbin Bosch",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 102,
+      "adjustedScore": -7.09,
+      "balls": 113,
+      "matches": 13,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 25.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7312",
+      "name": "Nandre Burger",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 103,
+      "adjustedScore": -7.13,
+      "balls": 30,
+      "matches": 6,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 25.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5738",
+      "name": "Xavier Bartlett",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 104,
+      "adjustedScore": -7.17,
+      "balls": 78,
+      "matches": 12,
+      "positiveMatchPct": 20.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 24.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 20.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2320",
+      "name": "Trent Boult",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 105,
+      "adjustedScore": -8.15,
+      "balls": 76,
+      "matches": 20,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 23.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 38.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 66.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "22920",
+      "name": "Jacob Duffy",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 106,
+      "adjustedScore": -8.71,
+      "balls": 31,
+      "matches": 10,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 22.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "27964",
+      "name": "Anshul Kamboj",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 107,
+      "adjustedScore": -9.16,
+      "balls": 47,
+      "matches": 11,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 22.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 28.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3641",
+      "name": "Ben Dwarshuis",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 108,
+      "adjustedScore": -10.04,
+      "balls": 35,
+      "matches": 7,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 21.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 22.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1566",
+      "name": "Mohammed Shami",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 109,
+      "adjustedScore": -10.44,
+      "balls": 45,
+      "matches": 15,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 20.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 27.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4692",
+      "name": "Lockie Ferguson",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 110,
+      "adjustedScore": -10.51,
+      "balls": 30,
+      "matches": 13,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 19.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3628",
+      "name": "Kagiso Rabada",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 111,
+      "adjustedScore": -10.96,
+      "balls": 133,
+      "matches": 24,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 19.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 52.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1487",
+      "name": "Adam Milne",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 112,
+      "adjustedScore": -12.13,
+      "balls": 46,
+      "matches": 11,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 18.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 27.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "29888",
+      "name": "Harshit Rana",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 113,
+      "adjustedScore": -12.15,
+      "balls": 100,
+      "matches": 18,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 17.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 45.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 60.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3697",
+      "name": "Kyle Jamieson",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 114,
+      "adjustedScore": -12.28,
+      "balls": 64,
+      "matches": 13,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 16.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 34.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2847",
+      "name": "Shardul Thakur",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 115,
+      "adjustedScore": -12.49,
+      "balls": 160,
+      "matches": 27,
+      "positiveMatchPct": 54.55,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 16.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 57.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 90.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8661",
+      "name": "Matheesha Pathirana",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 116,
+      "adjustedScore": -14.07,
+      "balls": 32,
+      "matches": 9,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 15.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 21.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1944",
+      "name": "Keshav Maharaj",
+      "team": "Mumbai Indians",
+      "role": "batting",
+      "rank": 117,
+      "adjustedScore": -14.19,
+      "balls": 61,
+      "matches": 10,
+      "positiveMatchPct": 16.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 14.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 16.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 33.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4900",
+      "name": "Wanindu Hasaranga",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 118,
+      "adjustedScore": -16.06,
+      "balls": 225,
+      "matches": 45,
+      "positiveMatchPct": 27.78,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 14.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 27.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 65.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "829",
+      "name": "Mitchell Starc",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 119,
+      "adjustedScore": -16.1,
+      "balls": 30,
+      "matches": 13,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 13.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6161",
+      "name": "Rahul Chahar",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 120,
+      "adjustedScore": -16.52,
+      "balls": 95,
+      "matches": 13,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 12.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 44.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6523",
+      "name": "Blessing Muzarabani",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 121,
+      "adjustedScore": -18.02,
+      "balls": 43,
+      "matches": 15,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 11.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 26.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "39657",
+      "name": "Eshan Malinga",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 122,
+      "adjustedScore": -18.32,
+      "balls": 37,
+      "matches": 11,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 11.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "830",
+      "name": "Josh Hazlewood",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 123,
+      "adjustedScore": -19.54,
+      "balls": 39,
+      "matches": 12,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 10.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 24.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7503",
+      "name": "Ravi Bishnoi",
+      "team": "Rajasthan Royals",
+      "role": "batting",
+      "rank": 124,
+      "adjustedScore": -20.95,
+      "balls": 95,
+      "matches": 27,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 9.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 44.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 90.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4641",
+      "name": "Lungi Ngidi",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 125,
+      "adjustedScore": -21.17,
+      "balls": 62,
+      "matches": 15,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 8.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 34.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2261",
+      "name": "Harshal Patel",
+      "team": "Sunrisers Hyderabad",
+      "role": "batting",
+      "rank": 126,
+      "adjustedScore": -21.21,
+      "balls": 125,
+      "matches": 26,
+      "positiveMatchPct": 27.27,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 8.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 27.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 51.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7270",
+      "name": "Anrich Nortje",
+      "team": "Lucknow Super Giants",
+      "role": "batting",
+      "rank": 127,
+      "adjustedScore": -21.79,
+      "balls": 67,
+      "matches": 17,
+      "positiveMatchPct": 20.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 7.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 20.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 56.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4373",
+      "name": "Mustafizur Rahman",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 128,
+      "adjustedScore": -22.21,
+      "balls": 59,
+      "matches": 13,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 6.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 33.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5944",
+      "name": "Mohammed Siraj",
+      "team": "Gujarat Titans",
+      "role": "batting",
+      "rank": 129,
+      "adjustedScore": -24.67,
+      "balls": 72,
+      "matches": 13,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 5.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 37.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6256",
+      "name": "Varun Chakravarthy",
+      "team": "Kolkata Knight Riders",
+      "role": "batting",
+      "rank": 130,
+      "adjustedScore": -26.03,
+      "balls": 49,
+      "matches": 14,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 5.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 29.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7920",
+      "name": "Nathan Ellis",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 131,
+      "adjustedScore": -26.25,
+      "balls": 54,
+      "matches": 10,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 4.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 31.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2399",
+      "name": "Dushmantha Chameera",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 132,
+      "adjustedScore": -26.42,
+      "balls": 98,
+      "matches": 28,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 3.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 45.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 93.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6464",
+      "name": "Arshdeep Singh",
+      "team": "Punjab Kings",
+      "role": "batting",
+      "rank": 133,
+      "adjustedScore": -26.96,
+      "balls": 131,
+      "matches": 39,
+      "positiveMatchPct": 16.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 2.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 16.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 52.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7967",
+      "name": "Noor Ahmad",
+      "team": "Chennai Super Kings",
+      "role": "batting",
+      "rank": 134,
+      "adjustedScore": -29.41,
+      "balls": 114,
+      "matches": 26,
+      "positiveMatchPct": 11.11,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 2.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 11.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 86.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "360",
+      "name": "Bhuvneshwar Kumar",
+      "team": "Royal Challengers Bengaluru",
+      "role": "batting",
+      "rank": 135,
+      "adjustedScore": -29.68,
+      "balls": 167,
+      "matches": 32,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 1.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 58.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3644",
+      "name": "Kuldeep Yadav",
+      "team": "Delhi Capitals",
+      "role": "batting",
+      "rank": 136,
+      "adjustedScore": -42.54,
+      "balls": 201,
+      "matches": 37,
+      "positiveMatchPct": 6.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 0.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 6.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 62.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "bowling": [
+    {
+      "id": "781",
+      "name": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 1,
+      "adjustedScore": 2.07,
+      "balls": 163,
+      "matches": 28,
+      "positiveMatchPct": 90.48,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 100.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 100.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 90.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 57.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 93.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "2933",
+      "name": "Jasprit Bumrah",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 2,
+      "adjustedScore": 1.8,
+      "balls": 469,
+      "matches": 55,
+      "positiveMatchPct": 76.92,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 65.6,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 99.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 76.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 79.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "6256",
+      "name": "Varun Chakravarthy",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 3,
+      "adjustedScore": 1.41,
+      "balls": 282,
+      "matches": 44,
+      "positiveMatchPct": 71.79,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 67.6,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 98.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 71.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 70.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "3644",
+      "name": "Kuldeep Yadav",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 4,
+      "adjustedScore": 1.36,
+      "balls": 267,
+      "matches": 43,
+      "positiveMatchPct": 76.32,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 74.2,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 97.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 76.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 69.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "4373",
+      "name": "Mustafizur Rahman",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 5,
+      "adjustedScore": 1.22,
+      "balls": 503,
+      "matches": 53,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 31.8,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 96.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "8661",
+      "name": "Matheesha Pathirana",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 6,
+      "adjustedScore": 1.09,
+      "balls": 467,
+      "matches": 44,
+      "positiveMatchPct": 62.5,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 70.5,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 95.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 62.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 79.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "4722",
+      "name": "Rashid Khan",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 7,
+      "adjustedScore": 1.03,
+      "balls": 506,
+      "matches": 75,
+      "positiveMatchPct": 61.54,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 56.9,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 94.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 61.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "2382",
+      "name": "Jamie Overton",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 8,
+      "adjustedScore": 1.0,
+      "balls": 134,
+      "matches": 17,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 100.0,
+      "iplEvidencePct": 45.1,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 93.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 52.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 56.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "6354",
+      "name": "Spencer Johnson",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 9,
+      "adjustedScore": 0.95,
+      "balls": 70,
+      "matches": 10,
+      "positiveMatchPct": 87.5,
+      "top10StabilityPct": 72.73,
+      "iplEvidencePct": 44.2,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 93.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 87.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 36.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 72.7
+        }
+      ]
+    },
+    {
+      "id": "7967",
+      "name": "Noor Ahmad",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 10,
+      "adjustedScore": 0.93,
+      "balls": 220,
+      "matches": 31,
+      "positiveMatchPct": 60.71,
+      "top10StabilityPct": 72.73,
+      "iplEvidencePct": 62.2,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 92.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 64.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 72.7
+        }
+      ]
+    },
+    {
+      "id": "2417",
+      "name": "Akeal Hosein",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 11,
+      "adjustedScore": 0.9,
+      "balls": 77,
+      "matches": 13,
+      "positiveMatchPct": 70.0,
+      "top10StabilityPct": 27.27,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 91.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 70.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 27.3
+        }
+      ]
+    },
+    {
+      "id": "25048",
+      "name": "Umran Malik",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 12,
+      "adjustedScore": 0.77,
+      "balls": 94,
+      "matches": 13,
+      "positiveMatchPct": 54.55,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 90.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 43.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4900",
+      "name": "Wanindu Hasaranga",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 13,
+      "adjustedScore": 0.73,
+      "balls": 247,
+      "matches": 42,
+      "positiveMatchPct": 54.29,
+      "top10StabilityPct": 27.27,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 89.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 27.3
+        }
+      ]
+    },
+    {
+      "id": "2876",
+      "name": "Axar Patel",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 14,
+      "adjustedScore": 0.66,
+      "balls": 255,
+      "matches": 37,
+      "positiveMatchPct": 61.29,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 88.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 61.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 68.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2436",
+      "name": "Dasun Shanaka",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 15,
+      "adjustedScore": 0.59,
+      "balls": 79,
+      "matches": 14,
+      "positiveMatchPct": 62.5,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 87.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 62.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "23467",
+      "name": "Gurjapneet Singh",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 16,
+      "adjustedScore": 0.57,
+      "balls": 61,
+      "matches": 8,
+      "positiveMatchPct": 85.71,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 86.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 85.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 33.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4101",
+      "name": "Mitchell Santner",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 17,
+      "adjustedScore": 0.56,
+      "balls": 193,
+      "matches": 30,
+      "positiveMatchPct": 68.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 86.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 68.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 61.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "36982",
+      "name": "Suyash Sharma",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 18,
+      "adjustedScore": 0.56,
+      "balls": 112,
+      "matches": 13,
+      "positiveMatchPct": 58.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 85.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 58.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "20006",
+      "name": "Ramandeep Singh",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 19,
+      "adjustedScore": 0.52,
+      "balls": 64,
+      "matches": 8,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 84.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 34.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3641",
+      "name": "Ben Dwarshuis",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 20,
+      "adjustedScore": 0.51,
+      "balls": 72,
+      "matches": 11,
+      "positiveMatchPct": 54.55,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 83.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 37.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1612",
+      "name": "Yuzvendra Chahal",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 21,
+      "adjustedScore": 0.5,
+      "balls": 317,
+      "matches": 48,
+      "positiveMatchPct": 55.81,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 82.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 72.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4641",
+      "name": "Lungi Ngidi",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 22,
+      "adjustedScore": 0.47,
+      "balls": 186,
+      "matches": 25,
+      "positiveMatchPct": 47.62,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 81.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 47.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 60.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 83.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6161",
+      "name": "Rahul Chahar",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 23,
+      "adjustedScore": 0.46,
+      "balls": 113,
+      "matches": 16,
+      "positiveMatchPct": 69.23,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 80.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 69.2
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6523",
+      "name": "Blessing Muzarabani",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 24,
+      "adjustedScore": 0.44,
+      "balls": 195,
+      "matches": 27,
+      "positiveMatchPct": 60.87,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 79.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 61.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 90.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6628",
+      "name": "Gerald Coetzee",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 25,
+      "adjustedScore": 0.43,
+      "balls": 148,
+      "matches": 20,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 78.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 55.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 66.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "27964",
+      "name": "Anshul Kamboj",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 26,
+      "adjustedScore": 0.41,
+      "balls": 97,
+      "matches": 11,
+      "positiveMatchPct": 77.78,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 78.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 77.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 44.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "67036",
+      "name": "Brijesh Sharma",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 27,
+      "adjustedScore": 0.41,
+      "balls": 64,
+      "matches": 10,
+      "positiveMatchPct": 62.5,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 77.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 62.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 34.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3629",
+      "name": "Corbin Bosch",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 28,
+      "adjustedScore": 0.39,
+      "balls": 111,
+      "matches": 13,
+      "positiveMatchPct": 45.45,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 76.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 45.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6272",
+      "name": "William Jacks",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 29,
+      "adjustedScore": 0.37,
+      "balls": 35,
+      "matches": 6,
+      "positiveMatchPct": 80.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 75.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 80.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 22.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3298",
+      "name": "Jofra Archer",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 30,
+      "adjustedScore": 0.36,
+      "balls": 258,
+      "matches": 37,
+      "positiveMatchPct": 57.58,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 74.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 57.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 68.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2261",
+      "name": "Harshal Patel",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 31,
+      "adjustedScore": 0.33,
+      "balls": 559,
+      "matches": 60,
+      "positiveMatchPct": 53.7,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 73.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 53.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 82.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "29888",
+      "name": "Harshit Rana",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 32,
+      "adjustedScore": 0.31,
+      "balls": 199,
+      "matches": 24,
+      "positiveMatchPct": 58.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 72.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 58.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 62.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7327",
+      "name": "Rasikh Salam",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 33,
+      "adjustedScore": 0.31,
+      "balls": 132,
+      "matches": 15,
+      "positiveMatchPct": 53.85,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 71.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 53.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 52.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 50.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3697",
+      "name": "Kyle Jamieson",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 34,
+      "adjustedScore": 0.28,
+      "balls": 135,
+      "matches": 16,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 71.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 52.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "46066",
+      "name": "Vipraj Nigam",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 35,
+      "adjustedScore": 0.27,
+      "balls": 30,
+      "matches": 3,
+      "positiveMatchPct": 100.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 70.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 100
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 10.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "32862",
+      "name": "Allah Ghazanfar",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 36,
+      "adjustedScore": 0.23,
+      "balls": 47,
+      "matches": 8,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 69.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 28.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7920",
+      "name": "Nathan Ellis",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 37,
+      "adjustedScore": 0.22,
+      "balls": 268,
+      "matches": 28,
+      "positiveMatchPct": 48.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 68.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 48.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 69.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 93.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5944",
+      "name": "Mohammed Siraj",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 38,
+      "adjustedScore": 0.21,
+      "balls": 366,
+      "matches": 53,
+      "positiveMatchPct": 58.82,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 67.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 58.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 75.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4219",
+      "name": "Krunal Pandya",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 39,
+      "adjustedScore": 0.19,
+      "balls": 87,
+      "matches": 12,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 66.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 42.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "35318",
+      "name": "Sakib Hussain",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 40,
+      "adjustedScore": 0.16,
+      "balls": 69,
+      "matches": 10,
+      "positiveMatchPct": 44.44,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 65.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 44.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 36.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "830",
+      "name": "Josh Hazlewood",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 41,
+      "adjustedScore": 0.15,
+      "balls": 343,
+      "matches": 44,
+      "positiveMatchPct": 64.29,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 64.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 64.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 74.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "39657",
+      "name": "Eshan Malinga",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 42,
+      "adjustedScore": 0.15,
+      "balls": 226,
+      "matches": 28,
+      "positiveMatchPct": 60.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 64.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 65.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 93.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2633",
+      "name": "Jason Holder",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 43,
+      "adjustedScore": 0.14,
+      "balls": 503,
+      "matches": 64,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 63.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3628",
+      "name": "Kagiso Rabada",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 44,
+      "adjustedScore": 0.14,
+      "balls": 260,
+      "matches": 38,
+      "positiveMatchPct": 55.88,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 62.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 68.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "25138",
+      "name": "Harsh Dubey",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 45,
+      "adjustedScore": 0.12,
+      "balls": 30,
+      "matches": 5,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 61.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 20.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "27960",
+      "name": "Mayank Yadav",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 46,
+      "adjustedScore": 0.1,
+      "balls": 85,
+      "matches": 12,
+      "positiveMatchPct": 63.64,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 60.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 63.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 41.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "829",
+      "name": "Mitchell Starc",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 47,
+      "adjustedScore": 0.1,
+      "balls": 156,
+      "matches": 24,
+      "positiveMatchPct": 54.55,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 59.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 56.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7312",
+      "name": "Nandre Burger",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 48,
+      "adjustedScore": 0.09,
+      "balls": 67,
+      "matches": 12,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 58.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "37052",
+      "name": "Naman Dhir",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 49,
+      "adjustedScore": 0.09,
+      "balls": 36,
+      "matches": 4,
+      "positiveMatchPct": 75.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 57.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 75.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 13.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6464",
+      "name": "Arshdeep Singh",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 50,
+      "adjustedScore": 0.08,
+      "balls": 849,
+      "matches": 108,
+      "positiveMatchPct": 52.58,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 57.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 52.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 87.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4391",
+      "name": "Liam Livingstone",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 51,
+      "adjustedScore": 0.08,
+      "balls": 64,
+      "matches": 10,
+      "positiveMatchPct": 55.56,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 56.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 34.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5577",
+      "name": "Sai Kishore",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 52,
+      "adjustedScore": 0.06,
+      "balls": 75,
+      "matches": 11,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 55.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 38.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4692",
+      "name": "Lockie Ferguson",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 53,
+      "adjustedScore": 0.02,
+      "balls": 254,
+      "matches": 35,
+      "positiveMatchPct": 59.38,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 54.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 59.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3660",
+      "name": "Luke Wood",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 54,
+      "adjustedScore": 0.02,
+      "balls": 58,
+      "matches": 8,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 53.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 32.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "25132",
+      "name": "Praful Hinge",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 55,
+      "adjustedScore": -0.01,
+      "balls": 40,
+      "matches": 7,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 52.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 25.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "name": "Ravindra Jadeja",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 56,
+      "adjustedScore": -0.08,
+      "balls": 58,
+      "matches": 10,
+      "positiveMatchPct": 57.14,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 51.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 57.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 32.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 33.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4265",
+      "name": "T Natarajan",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 57,
+      "adjustedScore": -0.09,
+      "balls": 330,
+      "matches": 34,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 50.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 73.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5738",
+      "name": "Xavier Bartlett",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 58,
+      "adjustedScore": -0.11,
+      "balls": 136,
+      "matches": 16,
+      "positiveMatchPct": 71.43,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 50.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 71.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 53.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8177",
+      "name": "Akash Madhwal",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 59,
+      "adjustedScore": -0.12,
+      "balls": 80,
+      "matches": 11,
+      "positiveMatchPct": 44.44,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 49.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 44.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 40.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "29066",
+      "name": "Zakary Foulkes",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 60,
+      "adjustedScore": -0.14,
+      "balls": 79,
+      "matches": 14,
+      "positiveMatchPct": 54.55,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 48.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 54.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 39.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6669",
+      "name": "Mohsin Khan",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 61,
+      "adjustedScore": -0.17,
+      "balls": 121,
+      "matches": 17,
+      "positiveMatchPct": 46.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 47.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 46.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 50.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 56.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7322",
+      "name": "Yash Dayal",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 62,
+      "adjustedScore": -0.18,
+      "balls": 178,
+      "matches": 27,
+      "positiveMatchPct": 56.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 46.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 56.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 59.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 90.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2847",
+      "name": "Shardul Thakur",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 63,
+      "adjustedScore": -0.19,
+      "balls": 235,
+      "matches": 31,
+      "positiveMatchPct": 48.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 45.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 48.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 66.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "360",
+      "name": "Bhuvneshwar Kumar",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 64,
+      "adjustedScore": -0.19,
+      "balls": 508,
+      "matches": 57,
+      "positiveMatchPct": 50.91,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 44.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 80.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7325",
+      "name": "Harpreet Brar",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 65,
+      "adjustedScore": -0.19,
+      "balls": 36,
+      "matches": 5,
+      "positiveMatchPct": 20.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 43.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 20.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 16.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5562",
+      "name": "Richard Gleeson",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 66,
+      "adjustedScore": -0.19,
+      "balls": 53,
+      "matches": 6,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 43.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 30.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6287",
+      "name": "Yash Thakur",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 67,
+      "adjustedScore": -0.19,
+      "balls": 161,
+      "matches": 19,
+      "positiveMatchPct": 52.63,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 42.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 52.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 57.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 63.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7689",
+      "name": "Dilshan Madushanka",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 68,
+      "adjustedScore": -0.2,
+      "balls": 60,
+      "matches": 7,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 41.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 33.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "28018",
+      "name": "Ashok Sharma",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 69,
+      "adjustedScore": -0.21,
+      "balls": 57,
+      "matches": 8,
+      "positiveMatchPct": 62.5,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 40.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 62.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 32.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8746",
+      "name": "Vaibhav Arora",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 70,
+      "adjustedScore": -0.21,
+      "balls": 176,
+      "matches": 25,
+      "positiveMatchPct": 59.09,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 39.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 59.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 59.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 83.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6683",
+      "name": "Mayank Markande",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 71,
+      "adjustedScore": -0.23,
+      "balls": 42,
+      "matches": 6,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 38.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 25.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1487",
+      "name": "Adam Milne",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 72,
+      "adjustedScore": -0.23,
+      "balls": 146,
+      "matches": 21,
+      "positiveMatchPct": 63.16,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 37.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 63.2
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 54.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 70.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "22920",
+      "name": "Jacob Duffy",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 73,
+      "adjustedScore": -0.23,
+      "balls": 205,
+      "matches": 27,
+      "positiveMatchPct": 45.45,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 36.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 45.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 63.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 90.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7808",
+      "name": "Marco Jansen",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 74,
+      "adjustedScore": -0.23,
+      "balls": 208,
+      "matches": 30,
+      "positiveMatchPct": 57.14,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 36.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 57.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 63.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Ishant Sharma",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 75,
+      "adjustedScore": -0.27,
+      "balls": 68,
+      "matches": 11,
+      "positiveMatchPct": 60.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 35.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 60.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 36.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8634",
+      "name": "Ashwani Kumar",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 76,
+      "adjustedScore": -0.29,
+      "balls": 46,
+      "matches": 7,
+      "positiveMatchPct": 66.67,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 34.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 66.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 27.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "26663",
+      "name": "Kwena Maphaka",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 77,
+      "adjustedScore": -0.29,
+      "balls": 50,
+      "matches": 7,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 33.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 29.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 23.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1944",
+      "name": "Keshav Maharaj",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 78,
+      "adjustedScore": -0.3,
+      "balls": 41,
+      "matches": 6,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 32.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 25.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "818",
+      "name": "Mitchell Marsh",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 79,
+      "adjustedScore": -0.3,
+      "balls": 37,
+      "matches": 6,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 31.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 23.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 20.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8530",
+      "name": "Kartik Tyagi",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 80,
+      "adjustedScore": -0.37,
+      "balls": 97,
+      "matches": 12,
+      "positiveMatchPct": 36.36,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 30.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 36.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 44.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 40.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4823",
+      "name": "Washington Sundar",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 81,
+      "adjustedScore": -0.4,
+      "balls": 97,
+      "matches": 17,
+      "positiveMatchPct": 38.46,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 29.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 38.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 44.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 56.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2399",
+      "name": "Dushmantha Chameera",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 82,
+      "adjustedScore": -0.42,
+      "balls": 280,
+      "matches": 34,
+      "positiveMatchPct": 44.83,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 28.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 44.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 70.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3174",
+      "name": "Matt Henry",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 83,
+      "adjustedScore": -0.47,
+      "balls": 112,
+      "matches": 17,
+      "positiveMatchPct": 43.75,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 28.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 43.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 48.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 56.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4487",
+      "name": "Vyshak Kumar",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 84,
+      "adjustedScore": -0.5,
+      "balls": 94,
+      "matches": 16,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 27.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 43.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1071",
+      "name": "Jaydev Unadkat",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 85,
+      "adjustedScore": -0.52,
+      "balls": 106,
+      "matches": 16,
+      "positiveMatchPct": 53.85,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 26.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 53.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 46.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 53.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3653",
+      "name": "Avesh Khan",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 86,
+      "adjustedScore": -0.53,
+      "balls": 511,
+      "matches": 61,
+      "positiveMatchPct": 45.61,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 25.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 45.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 81.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6286",
+      "name": "Shivam Mavi",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 87,
+      "adjustedScore": -0.53,
+      "balls": 85,
+      "matches": 11,
+      "positiveMatchPct": 45.45,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 24.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 45.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 41.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "8221",
+      "name": "Nitish Reddy",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 88,
+      "adjustedScore": -0.53,
+      "balls": 106,
+      "matches": 14,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 23.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 46.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6097",
+      "name": "Brydon Carse",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 89,
+      "adjustedScore": -0.58,
+      "balls": 66,
+      "matches": 9,
+      "positiveMatchPct": 55.56,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 22.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 55.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6281",
+      "name": "Abhishek Sharma",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 90,
+      "adjustedScore": -0.59,
+      "balls": 71,
+      "matches": 11,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 21.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 37.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "58246",
+      "name": "Prince Yadav",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 91,
+      "adjustedScore": -0.6,
+      "balls": 148,
+      "matches": 18,
+      "positiveMatchPct": 52.94,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 21.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 52.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 55.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 60.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "20005",
+      "name": "Arshad Khan",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 92,
+      "adjustedScore": -0.68,
+      "balls": 67,
+      "matches": 9,
+      "positiveMatchPct": 28.57,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 20.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 28.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 35.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "58134",
+      "name": "Digvesh Rathi",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 93,
+      "adjustedScore": -0.69,
+      "balls": 62,
+      "matches": 11,
+      "positiveMatchPct": 40.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 19.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 34.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 36.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4409",
+      "name": "Sam Curran",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 94,
+      "adjustedScore": -0.69,
+      "balls": 325,
+      "matches": 46,
+      "positiveMatchPct": 38.1,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 18.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 38.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 73.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6806",
+      "name": "Tushar Deshpande",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 95,
+      "adjustedScore": -0.78,
+      "balls": 250,
+      "matches": 35,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 17.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4816",
+      "name": "Khaleel Ahmed",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 96,
+      "adjustedScore": -0.8,
+      "balls": 255,
+      "matches": 39,
+      "positiveMatchPct": 41.94,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 16.7
+        },
+        {
+          "axis": "Consistency",
+          "value": 41.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 68.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2320",
+      "name": "Trent Boult",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 97,
+      "adjustedScore": -0.86,
+      "balls": 270,
+      "matches": 41,
+      "positiveMatchPct": 37.14,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 15.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 37.1
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 69.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7545",
+      "name": "Kuldeep Sen",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 98,
+      "adjustedScore": -0.86,
+      "balls": 53,
+      "matches": 8,
+      "positiveMatchPct": 25.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 14.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 25.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 30.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 26.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "19312",
+      "name": "Nuwan Thushara",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 99,
+      "adjustedScore": -0.92,
+      "balls": 183,
+      "matches": 24,
+      "positiveMatchPct": 30.43,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 14.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 30.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 60.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 80.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4489",
+      "name": "Prasidh Krishna",
+      "team": "Gujarat Titans",
+      "role": "bowling",
+      "rank": 100,
+      "adjustedScore": -0.99,
+      "balls": 307,
+      "matches": 38,
+      "positiveMatchPct": 40.54,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 13.2
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 71.9
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1813",
+      "name": "Deepak Chahar",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 101,
+      "adjustedScore": -1.03,
+      "balls": 91,
+      "matches": 13,
+      "positiveMatchPct": 50.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 12.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 50.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 43.1
+        },
+        {
+          "axis": "Match breadth",
+          "value": 43.3
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6676",
+      "name": "Azmatullah Omarzai",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 102,
+      "adjustedScore": -1.04,
+      "balls": 191,
+      "matches": 31,
+      "positiveMatchPct": 46.43,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 11.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 46.4
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 61.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7503",
+      "name": "Ravi Bishnoi",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 103,
+      "adjustedScore": -1.05,
+      "balls": 342,
+      "matches": 54,
+      "positiveMatchPct": 45.83,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 10.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 45.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 74.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2639",
+      "name": "Marcus Stoinis",
+      "team": "Punjab Kings",
+      "role": "bowling",
+      "rank": 104,
+      "adjustedScore": -1.06,
+      "balls": 127,
+      "matches": 23,
+      "positiveMatchPct": 33.33,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 9.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 33.3
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 51.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 76.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1566",
+      "name": "Mohammed Shami",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 105,
+      "adjustedScore": -1.11,
+      "balls": 196,
+      "matches": 32,
+      "positiveMatchPct": 35.71,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 8.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 35.7
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 62.0
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "6726",
+      "name": "Romario Shepherd",
+      "team": "Royal Challengers Bengaluru",
+      "role": "bowling",
+      "rank": 106,
+      "adjustedScore": -1.12,
+      "balls": 369,
+      "matches": 51,
+      "positiveMatchPct": 46.51,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 7.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 46.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 75.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "3330",
+      "name": "Hardik Pandya",
+      "team": "Mumbai Indians",
+      "role": "bowling",
+      "rank": 107,
+      "adjustedScore": -1.14,
+      "balls": 221,
+      "matches": 34,
+      "positiveMatchPct": 37.04,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 7.0
+        },
+        {
+          "axis": "Consistency",
+          "value": 37.0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 64.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "4755",
+      "name": "Shivam Dube",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 108,
+      "adjustedScore": -1.2,
+      "balls": 81,
+      "matches": 14,
+      "positiveMatchPct": 30.77,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 6.1
+        },
+        {
+          "axis": "Consistency",
+          "value": 30.8
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 40.3
+        },
+        {
+          "axis": "Match breadth",
+          "value": 46.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5939",
+      "name": "Cameron Green",
+      "team": "Kolkata Knight Riders",
+      "role": "bowling",
+      "rank": 109,
+      "adjustedScore": -1.27,
+      "balls": 117,
+      "matches": 18,
+      "positiveMatchPct": 31.25,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 5.3
+        },
+        {
+          "axis": "Consistency",
+          "value": 31.2
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 49.4
+        },
+        {
+          "axis": "Match breadth",
+          "value": 60.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "2411",
+      "name": "Sandeep Sharma",
+      "team": "Rajasthan Royals",
+      "role": "bowling",
+      "rank": 110,
+      "adjustedScore": -1.32,
+      "balls": 287,
+      "matches": 33,
+      "positiveMatchPct": 40.62,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 4.4
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 70.5
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "1758",
+      "name": "Patrick Cummins",
+      "team": "Sunrisers Hyderabad",
+      "role": "bowling",
+      "rank": 111,
+      "adjustedScore": -1.33,
+      "balls": 219,
+      "matches": 29,
+      "positiveMatchPct": 38.46,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 3.5
+        },
+        {
+          "axis": "Consistency",
+          "value": 38.5
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 64.6
+        },
+        {
+          "axis": "Match breadth",
+          "value": 96.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7250",
+      "name": "Mukesh Choudhary",
+      "team": "Chennai Super Kings",
+      "role": "bowling",
+      "rank": 112,
+      "adjustedScore": -1.35,
+      "balls": 51,
+      "matches": 9,
+      "positiveMatchPct": 0.0,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 2.6
+        },
+        {
+          "axis": "Consistency",
+          "value": 0
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 29.8
+        },
+        {
+          "axis": "Match breadth",
+          "value": 30.0
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "5041",
+      "name": "Mukesh Kumar",
+      "team": "Delhi Capitals",
+      "role": "bowling",
+      "rank": 113,
+      "adjustedScore": -1.4,
+      "balls": 319,
+      "matches": 39,
+      "positiveMatchPct": 40.62,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 1.8
+        },
+        {
+          "axis": "Consistency",
+          "value": 40.6
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 72.7
+        },
+        {
+          "axis": "Match breadth",
+          "value": 100
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "7270",
+      "name": "Anrich Nortje",
+      "team": "Lucknow Super Giants",
+      "role": "bowling",
+      "rank": 114,
+      "adjustedScore": -1.44,
+      "balls": 246,
+      "matches": 29,
+      "positiveMatchPct": 42.86,
+      "top10StabilityPct": 0.0,
+      "iplEvidencePct": 0.0,
+      "radar": [
+        {
+          "axis": "Impact",
+          "value": 0.9
+        },
+        {
+          "axis": "Consistency",
+          "value": 42.9
+        },
+        {
+          "axis": "Delivery confidence",
+          "value": 67.2
+        },
+        {
+          "axis": "Match breadth",
+          "value": 96.7
+        },
+        {
+          "axis": "Rank stability",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}
