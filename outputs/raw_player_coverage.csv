@@ -1,0 +1,21 @@
+player,player_id,batting_matches,batting_rows,bowling_matches,bowling_rows,total_matches,status
+Daryl Mitchell,4106.0,69,1181,10,86,69,RAW_DATA_FOUND
+Yash Dhull,26909.0,3,23,0,0,3,RAW_DATA_FOUND
+Karan Lal,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Khilan Patel,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Tushar Raheja,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Aaryavir Sehwag,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Anmolpreet Singh,4817.0,8,103,0,0,8,RAW_DATA_FOUND
+Bevon Jacobs,49027.0,12,194,0,0,12,RAW_DATA_FOUND
+Yajas Sharma,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Aaron Hardie,6398.0,11,149,15,286,16,RAW_DATA_FOUND
+Josh Tongue,6196.0,0,0,5,126,5,RAW_DATA_FOUND
+Tanush Kotian,6486.0,1,32,0,0,1,RAW_DATA_FOUND
+Simarjeet Singh,7533.0,6,15,14,256,14,RAW_DATA_FOUND
+Chetan Sakariya,6772.0,2,6,6,145,6,RAW_DATA_FOUND
+Ishant Bharadwaj,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Gerald Coetzee,6628.0,18,106,29,647,29,RAW_DATA_FOUND
+Shubham Kumar Gupta,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Shamar Springer,4842.0,7,70,11,212,11,RAW_DATA_FOUND
+Matthew Fisher,,0,0,0,0,0,IDENTITY_UNRESOLVED
+Mohit Ulva,,0,0,0,0,0,IDENTITY_UNRESOLVED

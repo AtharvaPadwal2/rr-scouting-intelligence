@@ -1,0 +1,8 @@
+player,competition,format,role,matches,runs,balls,wickets,economy,source,strike_rate,evidence_type,t20_model_eligible
+Tushar Raheja,TNPL 2026,T20,batting,8,422.0,222.0,,,https://www.crictracker.com/t20/tnpl/stats/batting-most-runs/,190.09,TOURNAMENT_AGGREGATE,False
+Yajas Sharma,DPL 2026,T20,batting,10,365.0,180.0,,,https://www.crictracker.com/delhi-premier-league-t20/stats/batting-most-runs/,202.78,TOURNAMENT_AGGREGATE,False
+Aaryavir Sehwag,U19 Asia Cup 2026,ODI,batting,5,361.0,,,,https://www.bcci.tv/news/article/india-u19-clinch-asia-cup-after-heroic-last-ball-win-over-pakistan,,TOURNAMENT_AGGREGATE,False
+Khilan Patel,U19 World Cup 2026,ODI,bowling,7,,332.0,9.0,5.01,https://www.cricbuzz.com/player-match-performance/match/138653/player/1460816/bowling?inningsId=2,,TOURNAMENT_AGGREGATE,False
+Mohit Ulva,U19 Asia Cup Final 2026,ODI,batting,1,49.0,26.0,,,https://www.bcci.tv/news/article/india-u19-clinch-asia-cup-after-heroic-last-ball-win-over-pakistan,188.46,SINGLE_MATCH,False
+Shubham Kumar Gupta,Assam Premier League 2026,T20,bowling,12,,240.0,21.0,7.0,https://www.cricdat.com/cricket/series/assam-premier-league-2026/stats/bowling-top-wicket-takers/130127,,TOURNAMENT_AGGREGATE,False
+Ishant Bharadwaj,SMAT 2025,T20,bowling,6,,132.0,8.0,9.32,https://www.cricbuzz.com/player-match-performance/match/128776/player/1466256/bowling?inningsId=2,,TOURNAMENT_AGGREGATE,False

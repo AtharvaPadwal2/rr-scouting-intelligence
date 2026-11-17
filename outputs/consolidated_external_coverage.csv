@@ -1,0 +1,81 @@
+player,role,league,batting_matches,batting_rows,bowling_matches,bowling_rows,cricsheet_ids,matched_names,match_status
+Daryl Mitchell,Batting,super_smash,46,1137,39,600,eade4650,DJ Mitchell,CANDIDATE_ALIAS
+Yash Dhull,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Karan Lal,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Khilan Patel,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Tushar Raheja,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Aaryavir Sehwag,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Anmolpreet Singh,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Bevon Jacobs,Batting,super_smash,20,495,0,0,972f217b,BJ Jacobs,CANDIDATE_ALIAS
+Yajas Sharma,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Aaron Hardie,Batting,super_smash,0,0,0,0,,,NOT_FOUND
+Josh Tongue,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Tanush Kotian,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Simarjeet Singh,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Chetan Sakariya,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Ishant Bharadwaj,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Gerald Coetzee,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Shubham Kumar Gupta,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Shamar Springer,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Matthew Fisher,Bowling,super_smash,9,44,32,700,7068c81e,MJ Fisher,CANDIDATE_ALIAS
+Mohit Ulva,Bowling,super_smash,0,0,0,0,,,NOT_FOUND
+Daryl Mitchell,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Yash Dhull,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Karan Lal,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Khilan Patel,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Tushar Raheja,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Aaryavir Sehwag,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Anmolpreet Singh,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Bevon Jacobs,Batting,cpl,3,40,0,0,972f217b,BJ Jacobs,CANDIDATE_ALIAS
+Yajas Sharma,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Aaron Hardie,Batting,cpl,0,0,0,0,,,NOT_FOUND
+Josh Tongue,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Tanush Kotian,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Simarjeet Singh,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Chetan Sakariya,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Ishant Bharadwaj,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Gerald Coetzee,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Shubham Kumar Gupta,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Shamar Springer,Bowling,cpl,30,286,39,679,4175d211,SK Springer,CANDIDATE_ALIAS
+Matthew Fisher,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Mohit Ulva,Bowling,cpl,0,0,0,0,,,NOT_FOUND
+Daryl Mitchell,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Yash Dhull,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Karan Lal,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Khilan Patel,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Tushar Raheja,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Aaryavir Sehwag,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Anmolpreet Singh,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Bevon Jacobs,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Yajas Sharma,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Aaron Hardie,Batting,bbl,0,0,0,0,,,NOT_FOUND
+Josh Tongue,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Tanush Kotian,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Simarjeet Singh,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Chetan Sakariya,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Ishant Bharadwaj,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Gerald Coetzee,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Shubham Kumar Gupta,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Shamar Springer,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Matthew Fisher,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Mohit Ulva,Bowling,bbl,0,0,0,0,,,NOT_FOUND
+Daryl Mitchell,Batting,t20_blast,23,425,17,293,eade4650,DJ Mitchell,CANDIDATE_ALIAS
+Yash Dhull,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Karan Lal,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Khilan Patel,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Tushar Raheja,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Aaryavir Sehwag,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Anmolpreet Singh,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Bevon Jacobs,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Yajas Sharma,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Aaron Hardie,Batting,t20_blast,0,0,0,0,,,NOT_FOUND
+Josh Tongue,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Tanush Kotian,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Simarjeet Singh,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Chetan Sakariya,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Ishant Bharadwaj,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Gerald Coetzee,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Shubham Kumar Gupta,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Shamar Springer,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Matthew Fisher,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
+Mohit Ulva,Bowling,t20_blast,0,0,0,0,,,NOT_FOUND
