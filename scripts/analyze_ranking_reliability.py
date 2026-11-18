@@ -40,6 +40,27 @@ roster = roster.merge(
 )
 roster["player_name"] = roster["player_name"].fillna("Unknown Player")
 
+
+# FULL_OFFICIAL_PLAYER_POOL
+# All official players are eligible, regardless of IPL contract.
+all_players = (
+    players[["player_id", "player_name"]]
+    .dropna(subset=["player_id"])
+    .drop_duplicates("player_id")
+)
+
+roster = all_players.merge(
+    roster[["player_id", "ipl_2026_team"]],
+    on="player_id",
+    how="left",
+    validate="one_to_one"
+)
+
+roster["ipl_2026_team"] = (
+    roster["ipl_2026_team"]
+    .fillna("Not roster-mapped")
+)
+
 states = states.loc[
     states["pressure_eligible"].astype(str).str.lower().eq("true")
 ].copy()
