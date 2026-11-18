@@ -25,12 +25,10 @@ import {
   Target,
   Shield,
   Zap,
-  Play,
   TrendingUp,
   AlertTriangle,
   Crosshair,
   BarChart3,
-  Video,
   CheckCircle2,
   ChevronRight,
   Trophy,
@@ -429,59 +427,6 @@ function OutcomesChart({
   );
 }
 
-function VideoPanel() {
-  const [videoError, setVideoError] = useState(false);
-
-  return (
-    <div className={`${panel} overflow-hidden`}>
-      <div className="relative aspect-video bg-[#060F1C]">
-        {!videoError ? (
-          <video
-            className="h-full w-full object-contain"
-            src="/media/rr-2026-analysis.mp4"
-            poster="/media/rr-analysis-poster.jpg"
-            controls
-            playsInline
-            preload="metadata"
-            onError={() => setVideoError(true)}
-          />
-        ) : (
-          <div className="flex h-full flex-col items-center justify-center gap-4 p-6 text-center">
-            <div className="rounded-full border border-[#F11975]/40 bg-[#F11975]/10 p-6">
-              <Play size={32} fill={PINK} color={PINK} />
-            </div>
-            <h3 className="text-xl font-black text-white">
-              RR 2026 · The Season Breakdown
-            </h3>
-            <p className="max-w-sm text-sm text-[#9BAEC8]">
-              Place your video at
-              <code className="mt-2 block text-[#F7C86C]">
-                public/media/rr-2026-analysis.mp4
-              </code>
-            </p>
-          </div>
-        )}
-
-        <span className="absolute left-4 top-4 rounded-md border border-white/20 bg-[#071526]/90 px-3 py-1.5 text-[10px] font-bold tracking-widest text-white">
-          VIDEO ANALYSIS
-        </span>
-      </div>
-
-      <div className="flex flex-wrap items-center justify-between gap-3 p-5">
-        <div>
-          <h3 className="font-bold text-white">
-            RR 2026: From Performance to Recruitment
-          </h3>
-          <p className="mt-1 text-xs text-[#9BAEC8]">
-            Campaign review · Scouting insights · IPL 2027
-          </p>
-        </div>
-        <Video size={22} color={PINK} />
-      </div>
-    </div>
-  );
-}
-
 export default function RRCampaignDashboard() {
   const [activeTab, setActiveTab] = useState<
     "overview" | "batting" | "bowling" | "outcomes"
@@ -587,60 +532,10 @@ export default function RRCampaignDashboard() {
           </div>
         </section>
 
-        {/* VIDEO + NARRATIVE */}
-        <section>
-          <SectionHeading
-            number="02"
-            eyebrow="Visual scouting report"
-            title="The Story Behind the Numbers"
-            description="A video-led review of RR's strongest phases, pressure points and recruitment opportunities."
-          />
-
-          <div className="grid gap-5 xl:grid-cols-[1.45fr_0.85fr]">
-            <VideoPanel />
-
-            <div className={`${panel} flex flex-col justify-between p-6`}>
-              <div>
-                <p className="text-[10px] font-bold uppercase tracking-widest text-[#F7C86C]">
-                  Executive Analysis
-                </p>
-                <h3 className="mt-3 text-2xl font-black leading-tight">
-                  Strong starts.
-                  <br />
-                  <span className="text-[#F11975]">
-                    Inconsistent finishes.
-                  </span>
-                </h3>
-                <p className="mt-5 text-sm leading-7 text-[#AFC1D6]">
-                  RR&apos;s powerplay batting delivered a clear
-                  league-relative advantage. However, late-innings
-                  scoring and the variation in death-over bowling
-                  between wins and losses highlight the next areas
-                  for squad improvement.
-                </p>
-              </div>
-
-              <div className="mt-7 space-y-4 border-t border-[#30435C] pt-6">
-                {[
-                  ["01", "Protect our powerplay batting strength"],
-                  ["02", "Improve death-over bowling reliability"],
-                  ["03", "Recruit genuine finishing power"],
-                  ["04", "Add middle-over wicket-taking options"],
-                ].map(([n, text]) => (
-                  <div key={n} className="flex items-center gap-3">
-                    <span className="font-black text-[#F11975]">{n}</span>
-                    <span className="text-sm text-[#D3DEEB]">{text}</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* PERFORMANCE ANALYTICS */}
         <section>
           <SectionHeading
-            number="03"
+            number="02"
             eyebrow="Ball-by-ball findings"
             title="Performance Across Innings Phases"
             description="Compare RR's scoring and run containment against the league, then examine differences between wins and losses."
@@ -752,7 +647,7 @@ export default function RRCampaignDashboard() {
         {/* STRENGTHS / WEAKNESSES */}
         <section>
           <SectionHeading
-            number="04"
+            number="03"
             eyebrow="Squad diagnosis"
             title="Our Strengths vs Our Weaknesses"
             description="Which advantages should we preserve, and which gaps require auction investment?"
@@ -846,7 +741,7 @@ export default function RRCampaignDashboard() {
         {/* RECRUITMENT */}
         <section>
           <SectionHeading
-            number="05"
+            number="04"
             eyebrow="IPL 2027 Auction Strategy"
             title="From Weaknesses to Recruitment"
             description="Four player profiles derived from our pre-dataset RR squad-gap research."
