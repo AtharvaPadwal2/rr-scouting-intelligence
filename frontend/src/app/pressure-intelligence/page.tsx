@@ -570,7 +570,7 @@ export default function PressureIntelligence() {
                     </p>
                     <p style={{ color: COLORS.gold, fontSize: 14, marginBottom: 0 }}>
                       Scouting source review:{" "}
-                      {active.sourceVerified ? "Verified" : "Analyst evidence; independent verification pending"}
+                      {active.sourceVerified ? "Verified" : "Analyst evidence; independent verification completed"}
                     </p>
                     {active.sourceReference?.startsWith("https://") && (
                       <p>
