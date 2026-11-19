@@ -833,7 +833,7 @@ export default function RRCampaignDashboard() {
             </div>
 
             <Link
-              href="/dashboard/pressure-intelligence"
+              href="/pressure-intelligence"
               className="group inline-flex shrink-0 items-center justify-center gap-3 rounded-xl bg-[#F11975] px-8 py-5 text-sm font-black text-white transition hover:bg-[#FF4E9E]"
             >
               View My Picks
